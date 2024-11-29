@@ -1,6 +1,6 @@
 # **Graph Theory Algorithms**
 
-This repository contains various implementations of algorithms related to **Graph Theory**. It provides solutions and examples for different types of graphs, including **simple graphs**, **bipartite graphs**, **tripartite graphs**, and more.
+This repository contains various implementations of algorithms in Python related to **Graph Theory**. It provides solutions and examples for different types of graphs, including **simple graphs**, **bipartite graphs**, **tripartite graphs**, and more.
 
 ## **Contents**
 
